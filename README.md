@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **AutoFix College Project**
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Golang**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
