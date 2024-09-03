@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Backend developer from Chile</h3>
 
-- 🔭 I’m currently working on my **AutoFix College Project**
+- 🔭 I’m currently working on **UniTicket** and **Osusach dashboard**
 
 - 🌱 I’m currently learning **Golang**
 
